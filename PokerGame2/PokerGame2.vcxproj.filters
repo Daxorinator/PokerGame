@@ -21,15 +21,21 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="deck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PokerGame.cpp">
+    <ClCompile Include="PokerGame2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="decks.cpp">
+    <ClCompile Include="deck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
